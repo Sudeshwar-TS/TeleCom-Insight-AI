@@ -56,7 +56,7 @@ rag-telecom-chatbot/
 
 ```bash
 git clone <repo-url>
-cd rag-telecom-chatbot
+cd TeleCom Insight AI
 uv sync          # or: pip install -e .
 ```
 
